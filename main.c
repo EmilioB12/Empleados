@@ -57,5 +57,6 @@ int main(){
     	cont=0;
     }
  }
+  printf("Gracias motherfuckers")
  	return 0;
 }
