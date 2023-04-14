@@ -57,6 +57,6 @@ int main(){
     	cont=0;
     }
  }
-  printf("Gracias motherfuckers")
+  printf("Analisis terminado");
  	return 0;
 }
