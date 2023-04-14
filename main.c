@@ -57,6 +57,5 @@ int main(){
     	cont=0;
     }
  }
-  printf("Analisis terminado");
  	return 0;
 }
